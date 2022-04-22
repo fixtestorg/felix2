@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/fetse/2b95001a-0823-44cc-a9e6-5d73a34052c4/c197c80a-ce30-4850-b2c0-a18e6084138d/_apis/work/boardbadge/ee9ed4dd-d40b-48e3-a88d-28d50ff03843)](https://dev.azure.com/fetse/2b95001a-0823-44cc-a9e6-5d73a34052c4/_boards/board/t/c197c80a-ce30-4850-b2c0-a18e6084138d/Microsoft.RequirementCategory)
 # GitHub for Developers
 
 - Class Date: THIS-DATE
